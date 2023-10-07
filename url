@@ -1,0 +1,13 @@
+Testing Link: http://engliable.com:5173
+
+Feedback Link: https://forms.gle/qb4FRivM435Pg7At5
+
+
+1. Writing Module: Test the users' writing skills by giving them one random topic and after the user input we check the user's input by different
+parameters example - content structure, punctuation, relevance and There is one function that gives the alternative of four to five sentences. 
+After all of this, we are giving the correct paragraph based on user input. In the correct paragraph, we are correcting the user's input, 
+sentence structure, spelling correction, etc.
+
+2. Listening Module: Test users' listening skills by giving them one audiobook (conversation of two people text, lecture text, monolog text etc)
+along with 5 Objective type Questions based on the audio book. and then we evaluate the user's listening skills by selecting the option with the 
+right option. With each increasing level, the difficulties of the audiobook increase, and also question number increases.
